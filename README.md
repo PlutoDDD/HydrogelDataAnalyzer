@@ -86,4 +86,3 @@ analyzer.batch_compare("data/experiment_1/")
 
 ## 致谢
 
-西安交通大学生物医学工程研究所
